@@ -1,0 +1,16 @@
+@font-face{
+    font-family: Inter;
+    src: url(C:\Users\Administrator\vite-project1\src\assets\fonts\Inter-VariableFont_slnt,wght.ttf)
+}
+.btn1{
+    height:42px;
+    width:200px;
+    background-color:hsl(5, 85%, 63%);
+    color:white;
+    font-family:Inter;
+    font-weight:400;
+}
+p.p1{
+    color:hsl(236, 13%, 42%);
+    font-size:15px;
+}

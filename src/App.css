@@ -1,0 +1,14 @@
+p{
+    font-size:15px;
+    color:hsl(233, 8%, 79%)
+}
+.container{
+    font-family: inter;
+}
+
+h2{
+    font-weight:700;
+}
+div{
+    background-color: hsl(240, 100%, 5%);
+}
